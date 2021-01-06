@@ -8,10 +8,21 @@ entries:
         url: mailto:ao.song@outlook.com
       - title: github
         url: https://github.com/ao-song
+      - title: linkedin
+        url: https://www.linkedin.com/in/ao-song-06502183/
 
-  - title: posts
+  - title: work
     post_list:
+      category: work
       limit: 5
       show_more: true
       show_more_text: more...
-      show_more_url: archive.html
+      show_more_url: work_archive.html
+
+  - title: life
+    post_list:
+      category: life
+      limit: 5
+      show_more: true
+      show_more_text: more...
+      show_more_url: life_archive.html
